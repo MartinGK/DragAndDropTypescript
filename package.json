@@ -1,5 +1,5 @@
 {
-  "name": "DragAndDrop-typescript",
+  "name": "dragAndDrop-typescript",
   "version": "1.0.0",
   "description": "Drag & Drop TypeScript",
   "main": "app.js",
@@ -8,8 +8,7 @@
     "start": "lite-server"
   },
   "keywords": [
-    "typescript",
-    "course"
+    "typescript"
   ],
   "author": "Martin GK",
   "license": "ISC",
