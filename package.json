@@ -1,16 +1,17 @@
 {
-  "name": "dragAndDrop-typescript",
+  "name": "understanding-typescript",
   "version": "1.0.0",
-  "description": "Drag & Drop TypeScript",
+  "description": "Understanding TypeScript Course Setup",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
   "keywords": [
-    "typescript"
+    "typescript",
+    "course"
   ],
-  "author": "Martin GK",
+  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
